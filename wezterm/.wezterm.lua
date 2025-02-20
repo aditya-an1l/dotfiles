@@ -1,5 +1,6 @@
 -- Wezterm Configuration File
 -- Author: aditya-an1l
+-- URL: https://github.com/aditya-an1l/dotfiles
 -- Description: 
 --    Lua configuration file for Wezterm Terminal.
 --    This configuration is created on a Windows platform 
